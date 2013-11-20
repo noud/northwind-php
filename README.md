@@ -1,7 +1,7 @@
 northwind-php
 =============
 
-Microsoft Northwind Traders database SPA in HTML5/CSS/JavaScript/JSON/PHP/SQL.
+Microsoft Northwind Traders database SPA in HTML5/CSS/JavaScript/JSON/PHP/SQL.<br>
 Using Kendo UI and jQuery front end to LAMP back end.
 
 Dependencies:

@@ -1,15 +1,13 @@
 northwind-php
 =============
 
-Microsoft Northwind Traders database SPA in HTML5/CSS/JavaScript/JSON/PHP/SQL.<br>
-Using Kendo UI and jQuery front end to LAMP back end.
+SPA in HTML5, CSS, JavaScript, JSON, PHP and SQL<br>
+for the [Microsoft Northwind Traders database](http://northwindextended.googlecode.com/files/Northwind.MySQL5.sql ""),<br>
+using [Kendo UI WEB](http://www.kendoui.com/download/download-kendo.aspx ""), so jQuery, front end with LAMP back end.
 
-### Requirements
-
-[Kendo UI WEB](http://www.kendoui.com/download/download-kendo.aspx "")<br>
-LAMP<br>
-[Microsoft Northwind Traders database for MySQL](http://northwindextended.googlecode.com/files/Northwind.MySQL5.sql "")
-
-### Installation
-
+This is based on and the total of:
 [Intro to Building Apps with Kendo UI And PHP Part 1](http://docs.kendoui.com/tutorials/PHP/build-apps-with-kendo-ui-and-php "") and [2](http://docs.kendoui.com/tutorials/PHP/build-apps-with-kendo-ui-and-php-2 "").
+
+And shows as:
+![northwind-php screenshot](https://raw.github.com/noud/northwind-php/master/screenshots/northwind-php.png)
+

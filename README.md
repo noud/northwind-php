@@ -13,3 +13,8 @@ Dependencies:
 
 	Microsoft Northwind Traders database for MySQL from
 	http://northwindextended.googlecode.com/files/Northwind.MySQL5.sql
+
+This work is based on:
+
+	http://docs.kendoui.com/tutorials/PHP/build-apps-with-kendo-ui-and-php
+	http://docs.kendoui.com/tutorials/PHP/build-apps-with-kendo-ui-and-php-2
